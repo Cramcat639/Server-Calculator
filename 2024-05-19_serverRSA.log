@@ -1,0 +1,152 @@
+de maig 19, 2024 4:56:36 P. M. Server_Encrypt_RSA.ServerCalculadora main
+INFO: Servidor iniciado, esperando clientes...
+de maig 19, 2024 4:56:41 P. M. Server_Encrypt_RSA.ServerCalculadora main
+INFO: Cliente conectado desde 127.0.0.1
+de maig 19, 2024 4:56:44 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Cliente seleccionó la opción: 2
+de maig 19, 2024 4:56:44 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Opción 2 elegida. Consultando historial...
+de maig 19, 2024 4:56:44 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Historial vacío consultado por el cliente
+de maig 19, 2024 4:56:48 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Cliente seleccionó la opción: 1
+de maig 19, 2024 4:56:48 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Opción 1 elegida. Calculando...
+de maig 19, 2024 4:56:51 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Operación solicitada por el cliente: 1+1
+de maig 19, 2024 4:56:51 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Resultado enviado al cliente: 1+1 = 2
+de maig 19, 2024 4:56:51 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Operación agregada al historial
+de maig 19, 2024 4:56:53 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Cliente seleccionó la opción: 2
+de maig 19, 2024 4:56:53 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Opción 2 elegida. Consultando historial...
+de maig 19, 2024 4:56:53 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Historial consultado por el cliente
+de maig 19, 2024 4:56:58 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Cliente seleccionó la opción: 3
+de maig 19, 2024 4:56:58 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Cliente solicitó cerrar la conexión.
+de maig 19, 2024 4:57:06 P. M. Server_Encrypt_RSA.ServerCalculadora main
+INFO: Cliente conectado desde 127.0.0.1
+de maig 19, 2024 4:57:11 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Cliente seleccionó la opción: 1
+de maig 19, 2024 4:57:11 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Opción 1 elegida. Calculando...
+de maig 19, 2024 4:57:13 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Operación solicitada por el cliente: 3^4+6*((9+12/6)*(24/2^3-1))
+de maig 19, 2024 4:57:13 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Resultado enviado al cliente: 3^4+6*((9+12/6)*(24/2^3-1)) = 213
+de maig 19, 2024 4:57:13 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Operación agregada al historial
+de maig 19, 2024 4:57:15 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Cliente seleccionó la opción: 2
+de maig 19, 2024 4:57:15 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Opción 2 elegida. Consultando historial...
+de maig 19, 2024 4:57:15 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Historial consultado por el cliente
+de maig 19, 2024 4:57:17 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Cliente seleccionó la opción: 3
+de maig 19, 2024 4:57:17 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Cliente solicitó cerrar la conexión.
+de maig 19, 2024 4:58:59 P. M. Server_Encrypt_RSA.ServerCalculadora main
+INFO: Servidor iniciado, esperando clientes...
+de maig 19, 2024 4:59:14 P. M. Server_Encrypt_RSA.ServerCalculadora main
+INFO: Cliente conectado desde 127.0.0.1
+de maig 19, 2024 4:59:18 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Cliente seleccionó la opción: 1
+de maig 19, 2024 4:59:18 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Opción 1 elegida. Calculando...
+de maig 19, 2024 4:59:24 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Operación solicitada por el cliente: 3^4+6*((9+12/6)*(24/2^3-1))
+de maig 19, 2024 4:59:24 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Resultado enviado al cliente: 3^4+6*((9+12/6)*(24/2^3-1)) = 213
+de maig 19, 2024 4:59:24 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Operación agregada al historial
+de maig 19, 2024 4:59:26 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Cliente seleccionó la opción: 2
+de maig 19, 2024 4:59:26 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Opción 2 elegida. Consultando historial...
+de maig 19, 2024 4:59:26 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Historial consultado por el cliente
+de maig 19, 2024 4:59:27 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Cliente seleccionó la opción: 3
+de maig 19, 2024 4:59:27 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Cliente solicitó cerrar la conexión.
+de maig 19, 2024 6:53:54 P. M. Server_Encrypt_RSA.ServerCalculadora main
+INFO: Servidor iniciado, esperando clientes...
+de maig 19, 2024 6:53:59 P. M. Server_Encrypt_RSA.ServerCalculadora main
+INFO: Cliente conectado desde 127.0.0.1
+de maig 19, 2024 6:54:02 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Cliente seleccionó la opción: 2
+de maig 19, 2024 6:54:02 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Opción 2 elegida. Consultando historial...
+de maig 19, 2024 6:54:02 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Historial vacío consultado por el cliente
+de maig 19, 2024 6:54:03 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Cliente seleccionó la opción: asd
+de maig 19, 2024 6:54:03 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+WARNING: Cliente seleccionó una opción no válida: asd
+de maig 19, 2024 6:54:04 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Cliente seleccionó la opción: 
+de maig 19, 2024 6:54:04 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+WARNING: Cliente seleccionó una opción no válida: 
+de maig 19, 2024 6:54:06 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Cliente seleccionó la opción: 1
+de maig 19, 2024 6:54:06 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Opción 1 elegida. Calculando...
+de maig 19, 2024 6:54:10 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Operación solicitada por el cliente: 2+2
+de maig 19, 2024 6:54:10 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Resultado enviado al cliente: 2+2 = 4
+de maig 19, 2024 6:54:10 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Operación agregada al historial
+de maig 19, 2024 6:54:12 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Cliente seleccionó la opción: 2
+de maig 19, 2024 6:54:12 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Opción 2 elegida. Consultando historial...
+de maig 19, 2024 6:54:12 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Historial consultado por el cliente
+de maig 19, 2024 6:54:24 P. M. Server_Encrypt_RSA.ServerCalculadora main
+INFO: Cliente conectado desde 127.0.0.1
+de maig 19, 2024 6:54:26 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Cliente seleccionó la opción: 2
+de maig 19, 2024 6:54:26 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Opción 2 elegida. Consultando historial...
+de maig 19, 2024 6:54:26 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Historial vacío consultado por el cliente
+de maig 19, 2024 6:54:28 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Cliente seleccionó la opción: 1
+de maig 19, 2024 6:54:28 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Opción 1 elegida. Calculando...
+de maig 19, 2024 6:54:32 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Operación solicitada por el cliente: 3+3+3+3
+de maig 19, 2024 6:54:32 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Resultado enviado al cliente: 3+3+3+3 = 12
+de maig 19, 2024 6:54:32 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Operación agregada al historial
+de maig 19, 2024 6:54:34 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Cliente seleccionó la opción: 2
+de maig 19, 2024 6:54:34 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Opción 2 elegida. Consultando historial...
+de maig 19, 2024 6:54:34 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Historial consultado por el cliente
+de maig 19, 2024 6:54:37 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Cliente seleccionó la opción: 3
+de maig 19, 2024 6:54:37 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Cliente solicitó cerrar la conexión.
+de maig 19, 2024 6:54:52 P. M. Server_Encrypt_RSA.ServerCalculadora main
+INFO: Cliente conectado desde 127.0.0.1
+de maig 19, 2024 6:54:52 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+SEVERE: null
+java.lang.NullPointerException: Cannot invoke "String.getBytes(java.nio.charset.Charset)" because "src" is null
+	at java.base/java.util.Base64$Decoder.decode(Base64.java:593)
+	at Server_Encrypt_RSA.ServerCalculadora.decrypt(ServerCalculadora.java:156)
+	at Server_Encrypt_RSA.ServerCalculadora$ClientHandler.run(ServerCalculadora.java:83)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+de maig 19, 2024 6:54:57 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Cliente seleccionó la opción: 3
+de maig 19, 2024 6:54:57 P. M. Server_Encrypt_RSA.ServerCalculadora$ClientHandler run
+INFO: Cliente solicitó cerrar la conexión.
